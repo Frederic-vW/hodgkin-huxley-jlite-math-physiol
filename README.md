@@ -4,7 +4,7 @@ An interactive notebook for neuroscience students, built on the Hodgkin–Huxley
 (Excitability) of Keener & Sneyd, *Mathematical Physiology*, 3rd ed. (Springer, 2025).
 
 **Run in your browser (no installation, JupyterLite):**
-[open the notebook](https://<github-user>.github.io/<repo>/notebooks/index.html?path=hh.ipynb)
+[open the notebook](https://Frederic-vW.github.io/hodgkin-huxley-jlite-math-physiol/notebooks/index.html?path=hh.ipynb)
 
 Open the notebook, then choose **Run ▸ Run All Cells**. The first run can take up to a minute while Python
 loads in the browser. Your edits are stored in this browser only, so use **File ▸ Download** to keep a copy.
